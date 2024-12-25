@@ -1,5 +1,5 @@
 # Circular-Motion-of-Earth-
 
-## Description This project simulates the circular motion of Earth around the Sun using Python. The simulation leverages the `numpy` and `matplotlib` libraries to create an animated visualization of Earth's orbit, demonstrating basic principles of circular motion in a simple and engaging
+ Description: This project simulates the circular motion of Earth around the Sun using Python. The simulation leverages the `numpy` and `matplotlib` libraries to create an animated visualization of Earth's orbit, demonstrating basic principles of circular motion in a simple and engaging]
+ Ensure you have `numpy` and `matplotlib` installed. You can install these using `pip`. ```sh pip install numpy matplotlib ```
 
-# Circular Motion of Earth Simulation ## Description This project simulates the circular motion of Earth around the Sun using Python. The simulation leverages the `numpy` and `matplotlib` libraries to create an animated visualization of Earth's orbit, demonstrating basic principles of circular motion in a simple and engaging
